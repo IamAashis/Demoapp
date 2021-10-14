@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome_to_home_page">Welcome to Home Page</string>
+    <string name="app_name_new">Mero App</string>
+    <string name="sign_in">Sign In</string>
+    <string name="fragment_form">Fragment Form</string>
+</resources>
